@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "instalike",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,9 +18,9 @@
   "bugs": "",
   "keywords": [],
   "author": {
-    "name": "",
-    "email": "",
-    "url": ""
+    "name": "Victor Vaz de Oliveira",
+    "email": "contato@victorvazdeoliveira.com.br",
+    "url": "https://www.victorvazdeoliveira.com.br"
   },
   "contributors": [],
   "scripts": {
